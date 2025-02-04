@@ -1,0 +1,8 @@
+p{
+    margin: auto;
+    width: 50%;
+    display: block;
+    border: 2px solid slategray,;
+    border-top-right-radius: 3px ,;
+    padding: 10px;
+}
